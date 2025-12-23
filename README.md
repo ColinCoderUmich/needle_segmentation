@@ -19,12 +19,12 @@ A machine learning system for real-time guidance of minimally invasive procedure
 ## 💻 Installation
 
 ```bash
-git clone https://github.com/PaulOkwija/needle_segmentation.git
+git clone https://github.com/ColinCoderUmich/needle_segmentation.git
 cd needle_segmentation
 
 # Create virtual environment
 python -m venv nseg
-sepsisenv\Scripts\activate  # Windows
+nseg\Scripts\activate  # Windows
 
 # Install dependencies
 pip install -r requirements.txt
